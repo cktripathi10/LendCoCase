@@ -1,0 +1,15 @@
+### Lend Co Case
+
+Alex, a newly appointed CEO of Lend Co, was seated in Higgins Cafe & Bistro overlooking Sigmund Freud statue. He was struggling with the challenge of maintaining Lend Co’s competitive advantage. Lend Co was a FinTech firm that was operating for several years. Lend Co was a platform that allowed individuals to request the loan, and let other individuals or organizations buy the loan. By connecting those who needed money with those who had money it created alternative to the existing banking system.
+
+Lend Co collected a lot of information from the applicants for the loans. When company started, it initially hoped to provide a robust risk assessment in real time for the loan. While, there are many financial risks, the main risk was the fact that the person who took out the loan would not repay it. This meant that investors will not get all of their money back.
+
+The way loans offered by Lend Co. operated was that after receiving the lump sum of money, the borrower would be making monthly payments for a predetermined amount of time. Each monthly payment included an interest portion – the payment for the convenience of getting money upfront, plus the compensation for the risk – and the principal portion – the payment that returned the initial amount borrowed. In the end, the investors got the original amount plus additional amount for service and risk. Clearly if the borrower stopped the payments, investors didn’t get all of the expected fees and also didn’t get the original amount back.
+
+Unfortunately, as a new startup Lend Co struggled to design a model that would quickly assess the risk of a borrower in almost real time. This quick assessment was critical, as company’s strategy department determined that borrowers left if they didn’t see their interest rate (a measure tied to risk assessment) within 5 minutes of submitting loan application. Now as a new CEO, Alex knew how he would approach the problem. He was meeting with several teams of Data Analysts from Clark University. Given their deep knowledge of the processes, they sure be able to figure out the right approach.
+
+This was a critical moment for the company, so Alex was hoping for the success. He was expecting to receive from them the following 3 deliverables:
+
+1. **Schema design** for storing the data that Lend Co was collecting from applications for loans that was optimized for the analysis, but was also flexible to accommodate changing regulatory landscape, as well as, enable Lend Co to leverage additional data in the near future.
+2. A **model** that would estimate the probability of the borrower failing to repay the loan in full. Additionally, Alex wanted to build the model that would predict percent of money that investors are likely to receive, i.e. if investors were expecting $100, but got back $80, they received 80% back.
+3. A **presentation** that would explain to the Board of Lend Co, the data structure and modeling approach that would help Lend Co remain the leader in peer-to-peer lending.

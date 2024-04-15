@@ -1,0 +1,13 @@
+prefix=/Users/chandantripathi/Documents/LendCoCase/venv
+exec_prefix=/Users/chandantripathi/Documents/LendCoCase/venv
+libdir=/Users/chandantripathi/Documents/LendCoCase/venv/lib
+sharedlibdir=/Users/chandantripathi/Documents/LendCoCase/venv/lib
+includedir=/Users/chandantripathi/Documents/LendCoCase/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
