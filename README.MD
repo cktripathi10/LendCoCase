@@ -12,4 +12,4 @@ This was a critical moment for the company, so Alex was hoping for the success. 
 
 1. **Schema design** for storing the data that Lend Co was collecting from applications for loans that was optimized for the analysis, but was also flexible to accommodate changing regulatory landscape, as well as, enable Lend Co to leverage additional data in the near future.
 2. A **model** that would estimate the probability of the borrower failing to repay the loan in full. Additionally, Alex wanted to build the model that would predict percent of money that investors are likely to receive, i.e. if investors were expecting $100, but got back $80, they received 80% back.
-3. A **presentation** that would explain to the Board of Lend Co, the data structure and modeling approach that would help Lend Co remain the leader in peer-to-peer lending.
+3. A **presentation** that would explain to the Board of Lend Co, the data structure and modeling approach that would help Lend Co remain the leader in peer-to-peer lending.# LendCoCase
